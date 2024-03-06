@@ -16,44 +16,12 @@ The emergency medical assistance feature offers first-aid tutorials, aiding user
 - **AI ChatBot:** Users can get automated answers to their questions through the AI ChatBot, saving time and providing immediate help.<br /><br />
 - **Red Button:** Alert feature warns users of high-risk locations, like deep rivers, accident-prone areas, and flood-prone zones, using past data from tourists and travel authorities on The Travel Pulse Application.<br /><br />
 
-## Project Screenshots 
-
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for Screenshot 2*
-
-[Add more screenshots as needed]
-
-## Getting Started
-
-[Provide instructions or guidance on how someone could potentially get started with this project if they were to implement it.]
-
-## Prerequisites
-
-[Specify any prerequisites or requirements for the project if applicable.]
-
-## Installation
-
-[Provide installation instructions if there are any specific steps that need to be followed.]
-
-## Usage
-
-[Explain how to use the project if it were implemented.]
-
-## Contributing
-
-[Specify if you are open to contributions and how others can contribute to the project.]
-
-## License
-
-[Include licensing information if applicable.]
+![DOC330_Presentation_MB7_page-0002](https://github.com/SandeepJeewandara/Travel-Pulse-Emergency-Assistance-App/assets/137886591/58d55859-304a-4aff-b5e9-640a20b00664)
 
 ## Acknowledgments
 
-[Give credit to any resources, inspiration, or individuals that contributed to the project idea.]
+Gratitude is extended to module leaders, survey participants, police, and the tourist community for their support in compiling the report. Special thanks to batch mates, friends, parents, and all contributors for making it accurate and resourceful.
 
 ## Disclaimer
 
-This project is in the early planning stages, and no actual implementation has been carried out. It serves as a documentation repository for the project idea.
+This project is in the early planning stages, and no actual implementation has been carried out yet. It serves as a documentation repository for the project idea.
