@@ -6,13 +6,15 @@ Travel Pulse is an emergency assistance application designed to ensure the safet
 
 ## Features
 
-- **User Registration:** Tourists can enter their details, including name, age, and nationality, and register on the application.
-- **Emergency Assistance:** Users can request immediate help, access emergency contact numbers, and receive constant assistance.
-- **Location Tracking:** In case of emergencies, rescue teams can track the user's location via the application for swift action.
-- **AI ChatBot:** Users can get automated answers to their questions through the AI ChatBot, saving time and providing immediate help.
-- **Notification Alerts:** Users receive notifications about natural disasters or major crises in the visiting country to avoid inconveniences.
+- **User Registration:** The innovative security feature aims to safeguard tourists by facilitating quick connections with local security forces and rescue departments during emergencies. This streamlined communication enhances the efficiency of rescue teams in reaching the user's location promptly, ensuring swift assistance in critical situations.<br /><br />
+- **Verification Alerts:** This innovative feature alerts users when valuable items are misplaced by triggering an alarm for devices and utilizing sensors to track larger objects, aiding in quick retrieval.<br /><br />
+- **Rapid Recovery:** 
+The emergency medical assistance feature offers first-aid tutorials, aiding users in accidents, injuries, illnesses, infections, and mental health crises. It facilitates coordination with medical organizations for prompt response.<br /><br />
+- **Location Tracking:** In case of emergencies, rescue teams can track the user's location via the application for swift action.<br /><br />
+- **AI ChatBot:** Users can get automated answers to their questions through the AI ChatBot, saving time and providing immediate help.<br /><br />
+- **Red Button:** Alert feature warns users of high-risk locations, like deep rivers, accident-prone areas, and flood-prone zones, using past data from tourists and travel authorities on The Travel Pulse Application.<br /><br />
 
-## Project Screenshots
+## Project Screenshots 
 
 ![Screenshot 1](/screenshots/screenshot1.png)
 *Caption for Screenshot 1*
