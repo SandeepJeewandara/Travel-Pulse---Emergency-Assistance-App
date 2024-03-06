@@ -1,5 +1,7 @@
 # Project Name: Travel Pulse | Emergency Assistance App
 
+![DOC330_Presentation_MB7_page-0001](https://github.com/SandeepJeewandara/Travel-Pulse-Emergency-Assistance-App/assets/137886591/b4067f24-bed6-41c3-b3e2-8229e3c65373)
+
 ## Project Description
 
 Travel Pulse is an emergency assistance application designed to ensure the safety of tourists during their travels. This repository contains the project proposal and idea documentation. Please note that this is solely a project idea, and no implementation has been done yet. 
